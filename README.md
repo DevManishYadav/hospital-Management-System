@@ -1,1 +1,1 @@
-Used to manage patient, doctor, and appointment records
+manage patient, doctor, and appointment records
